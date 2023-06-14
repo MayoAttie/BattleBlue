@@ -1,0 +1,12 @@
+Library/Artifacts/** filter=lfs diff=lfs merge=lfs -text
+Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/* filter=lfs diff=lfs merge=lfs -text
+Library/PlayerDataCache/Android/Data/* filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/09/097aa9991dc9a9c60fc0adc1ef89a8a8 filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/1d/1dcca376ced670d1eec1e13395984b13 filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/22/224432adaf5836f1b29a36ad055400a6 filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/42/42cb6bb640c8c438f702501b687e6f2c filter=lfs diff=lfs merge=lfs -text
+Library/PlayerDataCache/Android/Data/data.unity3d filter=lfs diff=lfs merge=lfs -text
+LibraryPlayerDataCacheAndroidDatadata.unity3d filter=lfs diff=lfs merge=lfs -text
+Library/PlayerDataCache/Android/Data/data.unity3d filter=lfs diff=lfs merge=lfs -text
+Library/PlayerDataCache/Android/Data/*.unity3d filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,4 @@
+Library/Artifacts/** filter=lfs diff=lfs merge=lfs -text
+Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/* filter=lfs diff=lfs merge=lfs -text
+Library/PlayerDataCache/Android/Data/*.unity3d filter=lfs diff=lfs merge=lfs -text
